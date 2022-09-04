@@ -6,7 +6,7 @@
 - ´D´ to go right
 
 ## installation
-1. go ´Builds´
+1. go to ´Builds´
 2. install ´Cube^4.zip´
 3. extract the files
 4. start ´Cube^4.exe´
