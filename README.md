@@ -1,4 +1,4 @@
-# Cube-4
+# Cube^4
 3D game where you should avoid to colliding with other obstacles
 
 ## control
